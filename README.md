@@ -1,4 +1,4 @@
 # Assembly-Programs
-This repository includes a few of my programs in Assembly language
+Assembly language program
 
-To show a fundamental understanding of low level code, this repository has a few different programs coded in Assembly.
+To show a fundamental understanding of low level code, this repository includes a program that computes the first few digits of the Fibonacci sequence and outputs them to console.  
